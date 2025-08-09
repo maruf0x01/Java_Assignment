@@ -32,6 +32,13 @@ This repository contains basic Java programs for practice and learning purposes.
 ### 7. 🏆 Gold Batch Number
 - A custom logic-based Java program to identify "Gold Batch Numbers".
 
+### 8. 🍫 Nobita's Chocolate Calculation
+- A Java program that calculates how many chocolates Nobita will give to his friends based on:
+  - Friend's date of birth
+  - Current year
+  - Number of birthdays Nobita was not invited to
+- Handles leap year birthdays (Feb 29) correctly by counting only in leap years.
+
 ---
 
 ## ✅ Author
